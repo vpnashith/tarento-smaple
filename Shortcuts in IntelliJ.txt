@@ -1,0 +1,16 @@
+
+IDE : IntelliJ
+
+Ctrl + Shift + A : Find a command and execute it, open a tool window, or search for a setting.
+
+Alt + Enter : Quick-fixes for highlighted errors and warnings, intention actions for improving and optimizing your code
+
+Shift + F2 : Jump to the next or previous highlighted error.
+
+Ctrl + E : Select a recently opened file from the list
+
+Ctrl+Shift+Enter : Insert any necessary trailing symbols and put the caret where you can start typing the next statement.
+
+Ctrl+Alt+L : Reformat the whole file or the selected fragment according to the current code style settings
+
+Ctrl+Alt+Shift+T : Refactor the element under the caret, for example, safe delete, copy, move, rename, and so on.

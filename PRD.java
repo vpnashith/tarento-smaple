@@ -2,7 +2,6 @@
 // By using Different Types of Arguments
 
 // Class 1
-// Helper class
 class Prod {
 
 	// Method with 2 integer parameters
